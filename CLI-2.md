@@ -20,11 +20,9 @@ eg) *, ~
 
 ### Permissions   
 Files and directories have a permission assigned differently to owner/ group/ others.
----   
 File type : - indicates regular file
             d indicates directory
 rwx : read, write, execute
----   
 "chmod" changes permissions
 eg. '6' of 600 = 110 = rw- for owner
 
